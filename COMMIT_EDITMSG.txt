@@ -147,5 +147,8 @@
 # Untracked files:
 #	contacto.php
 #	css/style2.css
+#	delete_user.php
+#	edit_user.php
 #	insert_user.php
+#	update.php
 #
